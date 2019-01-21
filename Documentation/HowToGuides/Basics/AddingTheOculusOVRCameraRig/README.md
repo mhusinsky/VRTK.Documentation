@@ -7,7 +7,7 @@
   > * Level: Beginner
   > * Reading Time: 2 minutes
   > * Checked with: 
-  >   * Unity 2018.2  - Watch out: Unity 2018.3 is currently not compatible with Oculus Integration
+  >   * Unity 2018.2  - Watch out: Unity 2018.3 might not compatible with Oculus Integration
   >   * Oculus Integration v1.32
 
 The Oculus OVRCameraRig helper prefab provides a camera that tracks the HMD rotation and position along with any available Oculus controllers.
